@@ -1,0 +1,42 @@
+create table itemmaster( item int, itemp int)
+insert into itemmaster (item, itemp) values
+(1, 2), (2, 4), (3, NULL), (4, NULL);
+
+
+select city, country from customers where country IN ('Germany', 'UK', 'USA')
+
+--rename
+select * from customers  as cust
+
+
+
+
+--select productname from product where productid < any 
+--select productname from products where productid < (select productid from orderdetails where quantity =1)
+
+--select * from customers where exists (select * from customers where customerid = 89)
+
+--select * from customers where exists (select NULL)
+
+--select 1 from customers
+
+--select * from customers where exists (select 1 from customers)
+
+--select customername from customers where country IN ( select country from customers where customername = 'Around the Horn')
+
+--select postalcode, count(*) from customers group by postalcode
+
+--select country, max(count) from (select country, count(*) count from customers group by country)
+
+--select country, count(*) count from customers group by country having count = 1
+
+--select * from products where price = (select price from products where productname = 'Aniseed Syrup')
+
+--select city from customers union select country from suppliers
+
+--select 1 from customers
+
+--select 'cust',  country from customers
+
+--select 'customer' as Type, country from customers union select 'supplier', city from suppliers
+

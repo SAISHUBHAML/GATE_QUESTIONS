@@ -12,3 +12,9 @@ https://unacademy.com/course/moore-mealy-machine/VFHOO3L3
 
 CLOSURE PROPERTIES OF TOC
 https://unacademy.com/course/closure-properties-of-toc/2C43VH3C
+
+PUMPING LEMMA, EQUIVALENCE CLASSES
+https://unacademy.com/class/pumping-lema-equivalence-classes/CPXGTKCS
+
+PUMPING LEMMA
+https://unacademy.com/class/pumping-lemma/W6AHK1JE
