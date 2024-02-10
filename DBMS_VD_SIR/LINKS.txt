@@ -28,6 +28,18 @@ https://unacademy.com/class/relational-algebra-pyq-discussion-part-1/AFHZQ2C9
 Relational Algebra PYQ Discussion: Part 2
 https://unacademy.com/class/relational-algebra-pyq-discussion-part-2/M9PYN3J8
 
+Floating point representation
+https://unacademy.com/class/floating-point-representation/UW8VYKKD
+
+DBMS PYQ Discussion Transactions: Part I
+https://unacademy.com/class/dbms-pyq-discussion-transactions-part-i/SKQEYKGN
+
+DBMS PYQ Discussion Transactions: Part II
+https://unacademy.com/class/dbms-pyq-discussion-transactions-part-ii/HQGESW60
+
+DBMS PYQ DISCUSSION INDEXING
+https://unacademy.com/class/dbms-pyq-discussion-indexing/EZX3QTW3
+
 
 
 
